@@ -1,3 +1,7 @@
+/*
+* Head to define a nested struct as complex structure. Used to test the generic stack class 
+*/
+
 #ifndef __CMPLXSTR_H__
 #define __CMPLXSTR_H__
 

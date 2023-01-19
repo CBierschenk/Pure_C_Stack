@@ -1,3 +1,9 @@
+/*
+* Test file to test the stack implementation. The tests are very basic! The test if Int, Float and complex structure work as excepted. Therefore, the three different stacks are instantiated and filled. During the filling, the implemented functions are checked.
+*
+* VERY BASIC TESTS TO TEST AND DEBUG THE IMPLEMENTATION!
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include "c_stack.h"
